@@ -661,7 +661,7 @@ GameObject:
   - component: {fileID: 11469404}
   - component: {fileID: 114434813201644526}
   m_Layer: 0
-  m_Name: ThirdPersonController
+  m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2725,3 +2725,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b594d523bae9f14d9d8f5cbc2434a12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  walkMoveStopRadius: 0.2
